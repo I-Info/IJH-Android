@@ -88,7 +88,7 @@ dependencies {
     implementation "androidx.glance:glance-appwidget:$glance_version"
     implementation "androidx.glance:glance-material3:$glance_version"
 
-    implementation 'org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.6'
+    implementation 'org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.7'
 
     implementation project(":core:data")
     implementation project(":core:common")
